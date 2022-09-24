@@ -20,4 +20,5 @@
 - Push your commits.
 - Ask your classmates to review your PR (minimum 2)
 - Merge your PR after 2 approvals
-- Then you are done :partying_face:	
+- Then you are done :partying_face
+HASAN KAAN TURGUT
